@@ -10,7 +10,8 @@ public class PS1 {
 	public void bfRun() {
 
 		System.out.println("Run this first");
-		
+		System.out.println("git changes 1st");
+		System.out.println("git changes 2nd");
 	}
 	
 	
