@@ -12,6 +12,13 @@ public class PS1 {
 		System.out.println("Run this first");
 		System.out.println("git changes 1st");
 		System.out.println("git changes 2nd");
+		
+		
+//		
+		System.out.println("gitstuff changes 3rd NA");
+		System.out.println("gitstuff changes 4th NA");
+		
+		
 	}
 	
 	

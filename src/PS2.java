@@ -18,6 +18,8 @@ public class PS2  extends PS1 // PS1 is parent to PS2
 		//System.out.println(ps3.decrement(3));
 		System.out.println(ps3.increment());
 		System.out.println(ps3.decrement());
+		System.out.println("gitstuff changes 5th NA");
+		
 		
 		//PS4 ps4 = new PS4(3);
 		System.out.println(ps3.multiplyofTwo());		
