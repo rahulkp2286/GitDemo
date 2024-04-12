@@ -18,6 +18,11 @@ public class PS3 extends PS4 //PS4 is parent pf PS3
 		 return a;
 		
 	}
+	public int increments() {
+		 a=a+1; //Referring to class variable 
+		 return a;
+		
+	}
 
 	public int decrement () {
 		 a=a-1; //Referring to class variable 

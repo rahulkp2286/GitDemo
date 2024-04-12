@@ -25,7 +25,8 @@ public class PS2  extends PS1 // PS1 is parent to PS2
 		
 		//PS4 ps4 = new PS4(3);
 		System.out.println(ps3.multiplyofTwo());		
-		System.out.println(ps3.multiplyofThree());		
+		System.out.println(ps3.multiplyofThree());	
+		System.out.println(ps4.multiplyofThree());	
 	}
 
 }
